@@ -2,7 +2,6 @@
 
 Analyze some Covid data and draw 
 
-
 # make animated gif (local)
 
 ### generate a local environment and install packages
