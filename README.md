@@ -6,14 +6,14 @@ Analyze some Covid data in a [Colab Notebook](https://github.com/human-centered-
 
 ### generate a local environment and install packages
 
-* 'python3 -m venv localenv'
-* 'source localenv/bin/activate'
-* 'pip install -r requirements.txt'
+* `python3 -m venv localenv`
+* `source localenv/bin/activate`
+* `pip install -r requirements.txt`
 
 ### make animation
 
 * you need https://imagemagick.org/
 * set your day intervall and parameters
-* 'convert -loop 0 -delay 20 casesabsolut/*.png cases-absolut.gif'
-* 'convert -loop 0 -delay 20 casesgrowth/*.png cases-growth.gif'
+* `convert -loop 0 -delay 20 casesabsolut/*.png cases-absolut.gif`
+* `convert -loop 0 -delay 20 casesgrowth/*.png cases-growth.gif`
 
