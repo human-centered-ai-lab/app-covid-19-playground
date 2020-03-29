@@ -2,7 +2,7 @@
 
 Analyze some Covid data in a [Colab Notebook](https://github.com/human-centered-ai-lab/app-covid-19-playground/blob/master/covid_19_playground.ipynb)
 
-# make animated gif (local)
+# Make an animated gif (local)
 
 ### generate a local environment and install packages
 
